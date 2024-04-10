@@ -68,3 +68,12 @@ For this workshop you need the following:
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
 
+## 참고
+[Github Actions docs](https://docs.github.com/ko/actions)
+[starter-workflows](https://github.com/actions/starter-workflows)
+[github context code](https://github.com/actions/toolkit/blob/main/packages/github/src/context.ts)
+
+[Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+[Github Script](https://github.com/actions/github-script)
+[Azure Spring Apps의 애플리케이션에 대한 파란색/녹색 배포](https://learn.microsoft.com/ko-kr/azure/architecture/web-apps/spring-apps/guides/blue-green-spring)
+[Azure Spring App blue/green deployment](https://github.com/Azure-Samples/azure-spring-apps-blue-green)
